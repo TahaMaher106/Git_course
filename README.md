@@ -1,2 +1,2 @@
-# Get_course
+# Git_course
 for me 
